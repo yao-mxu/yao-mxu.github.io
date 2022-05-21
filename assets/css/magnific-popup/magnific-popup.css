@@ -359,7 +359,7 @@ img.mfp-img {
 .mfp-ie7 .mfp-img {
   padding: 0; }
 .mfp-ie7 .mfp-bottom-bar {
-  width: 600px;
+  /* width: 600px;*/
   left: 50%;
   margin-left: -300px;
   margin-top: 5px;
