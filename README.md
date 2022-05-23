@@ -1,4 +1,4 @@
 # Personal Website
 
-## inspired by Template.com themes
+Inspired by template.com themes, see license.
 
